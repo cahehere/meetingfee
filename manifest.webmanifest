@@ -1,0 +1,15 @@
+{
+  "name": "모임 회비 정산",
+  "short_name": "회비 정산",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fa",
+  "theme_color": "#0f766e",
+  "description": "별칭으로 모임 회비를 정확하게 정산하는 오프라인 모바일 앱",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png"},
+    {"src":"./icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
